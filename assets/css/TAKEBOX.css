@@ -1,0 +1,23 @@
+.NOTHERE{
+  display: block;
+margin-top: 300px;
+  text-align: center;
+  width: 950px;
+  height: 550px;
+  color: #a7cefe;
+  background-color: rgba(0, 0, 0, .7);
+}
+
+table {
+  text-align: center;
+  width: 950px;
+  height: 550px;
+  color: white;
+  background-color: rgba(0, 0, 0, .7);
+}
+
+
+table, th, td {
+  border: 1px dashed rgba(179, 255, 236, .1);
+  border-radius: 0.5em;
+}

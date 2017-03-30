@@ -1,0 +1,15 @@
+link(href='http://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css')
+link(href='http://code.ionicframework.com/ionicons/1.4.1/css/ionicons.min.css' rel='stylesheet' type='text/css')
+
+.signin.cf
+  .avatar
+  form
+    .inputrow
+      input(type="text", id="name", placeholder="Username")
+      label.ion-person(for="name")
+    .inputrow
+      input(type="password", id="pass", placeholder="Password")
+      label.ion-locked(for="pass")
+    input(type="checkbox", name="remember", id="remember")
+    label(for="remember", class="radio") Stay Logged In
+    input(type="submit", value="Login")

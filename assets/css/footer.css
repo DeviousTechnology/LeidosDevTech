@@ -1,0 +1,57 @@
+/** {
+  margin: 0;
+}
+html, body {
+  height: 100%;
+}
+.page-wrap {
+  min-height: 100%;
+   equal to footer height 
+  margin-bottom: -200px; 
+}
+.page-wrap:after {
+  content: "";
+  display: block;
+}*/
+/*.site-footer, .page-wrap:after {
+   .push must be the same height as footer 
+  height: 200px; 
+}*/
+/*.site-footer {
+  background: #222222;
+}*/
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 0px;
+}
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 200px;
+  background-color: #222222;
+  
+ 
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+/*
+.container {
+  width: auto;
+  max-width: 680px;
+  padding: 0 15px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}*/
