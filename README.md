@@ -4,7 +4,7 @@
 
 :smiling_imp: Abdullah "monstervich" Abdelwahab :penguin::penguin: <br>
 :smiling_imp: Bello "dangiiwa" Dangiwa :new_moon::alien::full_moon: <br>
-:smiling_imp: Ahmed "mhmedktameemi" Tameemi <br>
+:smiling_imp: Ahmed "AKTamimi" Tameemi <br>
 :smiling_imp: Halima Ware :tongue: <br>
 :smiling_imp: Misbah Mandai <br>
 :smiling_imp: Sarah "fy55" Fathima :cake: <br>
